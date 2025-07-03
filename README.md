@@ -1,13 +1,13 @@
-# Tax Associate — Frontend Website
+# MatsioFrontendAssignment — Frontend Website
 
-Welcome to the **Tax Associate** frontend project! This is a modern, responsive landing page for a consultancy firm providing tax rebate services, company formation, and accounting solutions in Ireland.
+Welcome to the **MatsioFrontendAssignment** frontend project! This is a modern, responsive landing page for a consultancy firm providing tax rebate services, company formation, and accounting solutions in Ireland.
 
 
 ---
 
 ## Project Overview
 
-**Tax Associate** is a static frontend website designed with HTML5, CSS3, and animations for a sleek user experience. The site features:
+**MatsioFrontendAssignment** is a static frontend website designed with HTML5, CSS3, and animations for a sleek user experience. The site features:
 
 - A professional header and navigation menu
 - Hero section with a call-to-action and tax rebate application form
