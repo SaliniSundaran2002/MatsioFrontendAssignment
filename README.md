@@ -32,8 +32,8 @@ Welcome to the **Tax Associate** frontend project! This is a modern, responsive 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/tax-associate.git
-cd tax-associate
+git clone https://github.com/SaliniSundaran2002/MatsioFrontendAssignment.git
+cd MatsioFrontendAssignment
 ```
 
 ### 2. Open in Browser
